@@ -40,5 +40,5 @@ class Hangman:
 
 # Testing the Hangman class
 hangman = Hangman(["apple", "orange", "banana"])  # Pass the word list to the class
-hangman.ask_for_input()  # Start the game
+hangman.ask_for_input()  # Start the game!
 
